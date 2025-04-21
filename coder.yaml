@@ -1,0 +1,6 @@
+name: nodejs-vscode-template
+
+description: Dev environment with Node.js, VS Code Server, and JetBrains plugin support
+
+startup_script: |
+  echo "Dev environment ready"
